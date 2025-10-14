@@ -1,0 +1,30 @@
+body{
+    background-color:saddlebrown;
+    font-family: Inter;
+}
+h1{color:red;
+    text-align: -moz-left;
+    font-size: 25pt;
+}
+h2{
+   color: palegreen;
+   text-align: -moz-center;
+}
+p{
+   color: ivory;
+   font-size:24pt
+}
+button{
+    background-color:deepskyblue;
+    color:antiquewhite;
+}
+#manye{
+    color: rebeccapurple;
+}
+.para{
+    color: mediumorchid;
+
+
+
+
+
